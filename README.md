@@ -120,10 +120,6 @@ DATABASE_PATH=data/codesentinel.db
 uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-- **Interactive Web Dashboard**: [http://localhost:8000/](http://localhost:8000/)
-- **API Documentation (Swagger UI)**: [http://localhost:8000/docs](http://localhost:8000/docs)
-- **Health Check**: [http://localhost:8000/health](http://localhost:8000/health)
-
 ---
 
 ## 📊 Multi-Language Evaluation Benchmark
